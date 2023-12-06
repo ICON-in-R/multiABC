@@ -8,7 +8,7 @@ This is an idea take from
 
 ## Description
 
-Calculate a set of approximate likelihoods, on for each data set.
+Calculate a set of approximate likelihoods, one for each data set.
 
 $$
 p(\theta \mid s_1) = \int \pi(y \mid \theta) K[(S(y) - s_1)/h] \mbox{d}y
